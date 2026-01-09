@@ -1,4 +1,4 @@
-Ajo 🌍
+bbb cc fb Ajo 🌍
 Bringing Africa’s Trusted Savings Circles Onchain
 Ajo is a decentralized community savings and payout platform built on Hedera, designed to bring Africa’s age-old group savings system — known as Ajo, Esusu, Stokvel, or Chama — into the digital age.
 It enables trusted circles to automate contributions, payouts, and transparency using smart contracts.
