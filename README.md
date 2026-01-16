@@ -13,7 +13,7 @@ Funds are managed by smart contracts — not people — ensuring automation, tra
 💡 Key Features
 🔐 Onchain Trust
 Every group is governed by a smart contract escrow.
-No central collector. No manual records. Just code enforcing group rules.
+No central collector. No manual records. Just code enforcing group rules and techniques .
 
 ⚡ Automated Contributions & Payouts
 Contributions and payouts happen automatically on schedule — no delays, no disputes.
