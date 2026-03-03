@@ -73,8 +73,7 @@ Phase 1 – MVP (Current)
 
 Group creation & contributions
 Rotational/Target/Flexible modes
-Wallet connection and basic dashboard
-Phase 2 – Enhancement (Q1 2026)
+
 
 Yield integrations with DeFi protocols
 Mobile app
